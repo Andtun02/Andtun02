@@ -1,7 +1,7 @@
 ## Andtun 河豚
 - - -
 
->人有病老三千疾，唯有BUG不可医
+>云想衣裳花想容，春风拂槛露华浓
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AndtunO&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
