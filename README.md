@@ -33,4 +33,4 @@ I encourage myself by sharing my project code on GitHub.
 
 
 >⚡Links | 链接
->>* [Personal WebSite | 个人主页](https://www.andtun.cn/)
+>>* [Personal WebSite | 个人主页](http://www.andtun.cn/)
