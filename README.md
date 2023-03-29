@@ -25,4 +25,7 @@ I encourage myself by sharing my project code on GitHub.
 我在Github上面共享我的项目代码，以此勉励自我。
 
 <br>
+
+I'm He Yan,Studied at Guizhou Vocational College of Electronic Technology. 
+
 <br>
