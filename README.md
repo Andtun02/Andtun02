@@ -26,6 +26,6 @@ I encourage myself by sharing my project code on GitHub.
 
 <br>
 
-I'm He Yan,Studied at Guizhou Vocational College of Electronic Technology. 
+My Name is He Yan,Studied at Guizhou Vocational College of Electronic Technology. 
 
 <br>
