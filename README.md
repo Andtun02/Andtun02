@@ -8,9 +8,6 @@
 </a>
 
 <br>
-
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
-
 Halo，I'm honored that you opened this page.
 
 哈喽，我很荣幸您能打开此站点。
