@@ -34,7 +34,7 @@ $ cat about.txt
 <br />
 
 <p align="center">
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andtun02&theme=github_dark&bg_color=0D1117&border_color=1E293B&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8" />
+  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andtun02&theme=github_dark&bg_color=0D1117&border_color=1E293B&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8" />
 </p>
 
 <br />
