@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-22D3EE?style=flat-square&labelColor=0D1117&logo=statuspage&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-7C3AED?style=flat-square&labelColor=0D1117&logo=visualstudiocode&logoColor=7C3AED" />
-  <img src="https://img.shields.io/badge/STACK-RUST/LUA/C/C%2B%2B/C%23-22D3EE?style=flat-square&labelColor=0D1117&logo=rust&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-F39985?style=flat-square&labelColor=0D1117&logo=statuspage&logoColor=F39985" />
+  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-E2725B?style=flat-square&labelColor=0D1117&logo=visualstudiocode&logoColor=E2725B" />
+  <img src="https://img.shields.io/badge/STACK-RUST/LUA/C/C%2B%2B/C%23-F39985?style=flat-square&labelColor=0D1117&logo=rust&logoColor=F39985" />
 </p>
 
 <p align="center">
@@ -32,5 +32,5 @@ $ cat about.txt
 <br />
 
 <p align="center">
-  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andtun02&theme=github_dark&bg_color=0D1117&border_color=1E293B&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8" />
+  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andtun02&theme=github_dark&bg_color=0D1117&border_color=1E293B&title_color=F39985&icon_color=E2725B&text_color=94A3B8" />
 </p>
