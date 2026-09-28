@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:155E75&height=180&section=header&text=andtun&fontSize=66&fontColor=67E8F9&fontAlignY=45&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:155E75&height=110&section=header&text=andtun&fontSize=40&fontColor=67E8F9&fontAlignY=45&animation=fadeIn" />
 
 </div>
 
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-22D3EE?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-7C3AED?style=for-the-badge&labelColor=0D1117&logo=visualstudiocode&logoColor=7C3AED" />
-  <img src="https://img.shields.io/badge/STACK-RUST/LUA/C/C%2B%2B/C%23-22D3EE?style=for-the-badge&labelColor=0D1117&logo=rust&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-22D3EE?style=flat-square&labelColor=0D1117&logo=statuspage&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-7C3AED?style=flat-square&labelColor=0D1117&logo=visualstudiocode&logoColor=7C3AED" />
+  <img src="https://img.shields.io/badge/STACK-RUST/LUA/C/C%2B%2B/C%23-22D3EE?style=flat-square&labelColor=0D1117&logo=rust&logoColor=22D3EE" />
 </p>
 
 <p align="center">
@@ -34,9 +34,9 @@ $ cat about.txt
 <br />
 
 <p align="center">
-  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andtun02&theme=github_dark&bg_color=0D1117&border_color=1E293B&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8" />
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andtun02&theme=github_dark&bg_color=0D1117&border_color=1E293B&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8" />
 </p>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0D1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0D1117&height=90&section=footer" />
