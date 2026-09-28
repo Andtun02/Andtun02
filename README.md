@@ -1,6 +1,6 @@
 <div align="center">
 
-# andtun
+<img src="assets/name.svg" width="200" alt="andtun" />
 
 </div>
 
