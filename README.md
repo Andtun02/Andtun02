@@ -4,6 +4,8 @@
 
 </div>
 
+<hr />
+
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-F39985?style=flat-square&labelColor=0D1117&logo=statuspage&logoColor=F39985" />
   <img src="https://img.shields.io/badge/ROLE-DEVELOPER-E2725B?style=flat-square&labelColor=0D1117&logo=visualstudiocode&logoColor=E2725B" />
@@ -24,12 +26,14 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<hr />
+
 ```bash
 $ cat about.txt
 在 GitHub 上分享我的项目代码，以此勉励自我。
 ```
 
-<br />
+<hr />
 
 <p align="center">
   <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andtun02&theme=github_dark&bg_color=0D1117&border_color=1E293B&title_color=F39985&icon_color=E2725B&text_color=94A3B8" />
