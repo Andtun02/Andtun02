@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:155E75&height=110&section=header&text=andtun&fontSize=40&fontColor=67E8F9&fontAlignY=45&animation=fadeIn" />
+# andtun
 
 </div>
-
-<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-22D3EE?style=flat-square&labelColor=0D1117&logo=statuspage&logoColor=22D3EE" />
@@ -36,7 +34,3 @@ $ cat about.txt
 <p align="center">
   <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andtun02&theme=github_dark&bg_color=0D1117&border_color=1E293B&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8" />
 </p>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0D1117&height=90&section=footer" />
