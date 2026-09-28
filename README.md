@@ -4,8 +4,6 @@
 
 </div>
 
-<hr />
-
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-F39985?style=flat-square&labelColor=0D1117&logo=statuspage&logoColor=F39985" />
   <img src="https://img.shields.io/badge/ROLE-DEVELOPER-E2725B?style=flat-square&labelColor=0D1117&logo=visualstudiocode&logoColor=E2725B" />
@@ -25,8 +23,6 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-<hr />
 
 ```bash
 $ cat about.txt
